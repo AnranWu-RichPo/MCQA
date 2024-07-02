@@ -17,7 +17,7 @@ For more detailed information, please refer to our [paper](#).
 
 ## Access
 
-If you would like to download the MCQA dataset, please send email to lhe@cs.ecnu.edu.cn , lhe@cs.ecnu.edu.cn and lhe@cs.ecnu.edu.cn . We will send you the dataset download link.
+If you would like to download the MCQA dataset, please send email to lhe@cs.ecnu.edu.cn , xjwu_cs@fudan.edu.cn and anranwu@stu.ecnu.edu.cn . We will send you the dataset download link.
 
 
 
